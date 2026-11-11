@@ -1,0 +1,23 @@
+Question,Answer,Answer_Length
+What is artificial intelligence?,"Artificial intelligence is the ability of a machine to display human-like capabilities such as reasoning, learning, planning, and creativity. It’s a system built to do a specific job.",183
+What are the applications of artificial intelligence?,"According to the context, artificial intelligence (AI) encompasses four distinct objectives:
+
+*   Creating systems that think in the same way as people do.
+*   Creating systems capable of logical thought.
+*   Creating machines that can mimic human behaviour.
+*   Creating systems that behave in a logical manner.",312
+Explain machine learning.,"Machine learning is a branch of artificial intelligence (AI). It explains one of the most important ideas in AI, which is learning through experience and not through being taught. Machine learning algorithms learn from data and experiences instead of explicit programming instructions. They change as they get new data and learn from their experiences.",352
+What is deep learning?,"Deep learning is a subfield of machine learning that focuses on algorithms called “Artificial Neural Networks” (ANNs) based on how the brain is built and how it works. It’s a way of programming computers to do things that humans do naturally, using neural networks to teach computers to do things that humans do.",312
+How does AI work?,"AI is the ability of a machine to display human-like capabilities such as reasoning, learning, planning, and creativity. It’s the intelligence that’s incorporated into machines.
+
+Deep learning, a type of AI, works by carefully reverse-engineering human traits and machine abilities to understand how an AI system really works.",326
+What are the benefits of artificial intelligence?,The context doesn’t provide any information about the benefits of artificial intelligence.,90
+What are the challenges of AI?,The context doesn’t explicitly state what the challenges of AI are.,67
+Explain neural networks.,"Neural networks are made up of layers of software-based calculators called “neurons” that are linked together. This neural network can take in a huge amount of data and process it through many layers. At each layer, the network learns more complex features of the data. The network can then decide what to do with the data.",323
+What is natural language processing?,Natural language processing (NLP) is the study of how computers can understand and respond to human language.,109
+How is AI used in healthcare?,"AI is used in healthcare to address issues of high barriers to access to healthcare facilities, particularly in rural areas that suffer from poor connectivity and a limited supply of healthcare professionals. It is used for applications like AI-driven diagnostics, personalized treatment, early diagnosis of potential pandemics, and imaging diagnostics.",353
+What is computer vision?,The context does not provide information about computer vision.,63
+What is supervised learning?,Supervised learning is a branch of artificial intelligence (AI) that learns from inputs and outputs that are shown as examples. It learns through experience and not through being taught.,186
+What is unsupervised learning?,Unsupervised learning is when the learning system has no way to know what the inputs are and what the expected outputs are. It learns on its own to discover properties of objects without being given examples.,208
+What is reinforcement learning?,Reinforcement learning is a process of determining how to behave in situations when rewards are contingent on previous actions.,127
+What is the future of artificial intelligence?,"The context doesn’t provide a definitive answer to the question “What is the future of artificial intelligence?” It only discusses the definition of AI and its various levels, but it doesn’t offer any predictions or conclusions about its future.",245

@@ -1,0 +1,1099 @@
+Query_ID,Query,Search_Type,Rank,Chunk_ID,Document,Similarity_Score
+1,What is artificial intelligence?,Keyword,1,1,"9
+UNIT 1  INTRODUCTION TO ARTIFICIAL     
+      INTELLIGENCE
+Structure
+1.1  Introduction
+1.2  Objectives
+1.3  Basics of Artificial Intelligence (AI)?
+1.4  Brief history of Artificial Intelligence 
+1.5  Components of Intelligence
+1.6  Approaches to Artificial Intelligence
+1.7  Comparison between Artificial Intelligence (AI), Machine Learning  
+  (ML) and DeepLearning (DL).
+1.8  Application Areas of Artificial Intelligence Systems
+1.9  Intelligent Agents
+  1.9.1  Stimulus - Response Agents",0.6461
+1,What is artificial intelligence?,Keyword,2,24,"13
+Introduction to 
+Artificial Intelligence
+ Figure 1(a) – Classification of Artificial Intelligence
+Here’s a brief introduction the first type of AI i.e., Type 1 AI. Following are the 
+three stages of Type 1 - Artificial Intelligence: 
+a) Artificial Narrow Intelligence-(ANI)                      
+b) Artificial General Intelligence-(AGI)                    
+c) Artificial Super Intelligence-(ASI) 
+Figure 1(b) –Three Stages of Type-I Artificial Intelligence",0.6156
+1,What is artificial intelligence?,Keyword,3,13,"11
+Introduction to 
+Artificial Intelligence
+1.2 OBJECTIVES
+After going through this unit, you will be able to:
+• Understand the differen ce between knowledge and intelligence
+• Answer – what is AI?
+• Identify various approaches of AI
+• Compare Artificial Intelligence (AI), Machine Learning (ML) & Deep 
+Learning (DL).
+• Understand the concep t of agents in AI
+1.3 BASICS OF  ARTIFICIAL INTELLIGENCE? 
+Knowledge and intelligence are two important concepts, and we were able to",0.389
+1,What is artificial intelligence?,Keyword,4,14,"gain an understanding of the fundamental distinction between the two terms. 
+Now that we have your attention, let's talk about what artificial intelligence 
+actually is. The meaning of Artificial Intelligence will be covered in this 
+section; however, before we get started, it is important to note that the field of 
+Artificial Intelligence is related to the process of incorporating intelligence into 
+machines; the specifics of this process, as well as the mechanism itself, will be",0.3841
+1,What is artificial intelligence?,Keyword,5,9,"Now that we have an understanding of the distinction between intelligence and 
+knowledge, our next issue is: what exactly is artificial intelligence? Incorporating 
+intelligence into a machine is related to the field of Artificial Intelligence, whereas 
+both concepts, namely the representation of knowledge and its engineering, are 
+the basis of traditional AI research. This topic will be discussed in section 1.3",0.3783
+1,What is artificial intelligence?,Semantic,1,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.7413
+1,What is artificial intelligence?,Semantic,2,14,"gain an understanding of the fundamental distinction between the two terms. 
+Now that we have your attention, let's talk about what artificial intelligence 
+actually is. The meaning of Artificial Intelligence will be covered in this 
+section; however, before we get started, it is important to note that the field of 
+Artificial Intelligence is related to the process of incorporating intelligence into 
+machines; the specifics of this process, as well as the mechanism itself, will be",0.7411
+1,What is artificial intelligence?,Semantic,3,9,"Now that we have an understanding of the distinction between intelligence and 
+knowledge, our next issue is: what exactly is artificial intelligence? Incorporating 
+intelligence into a machine is related to the field of Artificial Intelligence, whereas 
+both concepts, namely the representation of knowledge and its engineering, are 
+the basis of traditional AI research. This topic will be discussed in section 1.3",0.711
+1,What is artificial intelligence?,Semantic,4,25,"The various categories of Artificial Intelligence are discussed as follows:
+a) Artificial Narrow Intelligence (ANI), also called Weak AI or Narrow AI: 
+Weak AI is a term for thinking that is ""simulated."" Such systems seem to 
+act intelligently, but they don't have any awareness of what they are doing. 
+For example, a chatbot might talk to you in a way that seems natural, but it 
+doesn't know who it is or why it's talking to you. Artificial intelligence is a",0.7108
+1,What is artificial intelligence?,Semantic,5,26,"system that was built to do a certain job.
+b) Artificial General Intelligence (AGI): Strong or General Artificial 
+Intelligence, also called ""actual"" thinking. That is, acting like a smart human 
+and thinking like one with a conscious, subjective mind. For instance, when 
+two humans talk, they probably both know who they are, what they're 
+doing, and why. 
+Strong
+AI",0.6951
+2,What are the applications of artificial intelligence?,Keyword,1,2,"1.9.1  Stimulus - Response Agents
+1.10 Summary
+1.11 Solutions/Answers
+1.12 Further Readings 
+1.1 INTRODUCTION 
+Today, artificial intelligence is used in a wide variety of applications, including 
+engineering, technology, the military, opinion mining, sentiment analysis, 
+and  many more. It is also used in more advanced domains, such as language 
+processing and applications for aerospace.
+AI is everywhere in today's world, and people are gradually becoming accustomed",0.3275
+2,What are the applications of artificial intelligence?,Keyword,2,1,"9
+UNIT 1  INTRODUCTION TO ARTIFICIAL     
+      INTELLIGENCE
+Structure
+1.1  Introduction
+1.2  Objectives
+1.3  Basics of Artificial Intelligence (AI)?
+1.4  Brief history of Artificial Intelligence 
+1.5  Components of Intelligence
+1.6  Approaches to Artificial Intelligence
+1.7  Comparison between Artificial Intelligence (AI), Machine Learning  
+  (ML) and DeepLearning (DL).
+1.8  Application Areas of Artificial Intelligence Systems
+1.9  Intelligent Agents
+  1.9.1  Stimulus - Response Agents",0.3169
+2,What are the applications of artificial intelligence?,Keyword,3,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.3032
+2,What are the applications of artificial intelligence?,Keyword,4,24,"13
+Introduction to 
+Artificial Intelligence
+ Figure 1(a) – Classification of Artificial Intelligence
+Here’s a brief introduction the first type of AI i.e., Type 1 AI. Following are the 
+three stages of Type 1 - Artificial Intelligence: 
+a) Artificial Narrow Intelligence-(ANI)                      
+b) Artificial General Intelligence-(AGI)                    
+c) Artificial Super Intelligence-(ASI) 
+Figure 1(b) –Three Stages of Type-I Artificial Intelligence",0.3019
+2,What are the applications of artificial intelligence?,Keyword,5,13,"11
+Introduction to 
+Artificial Intelligence
+1.2 OBJECTIVES
+After going through this unit, you will be able to:
+• Understand the differen ce between knowledge and intelligence
+• Answer – what is AI?
+• Identify various approaches of AI
+• Compare Artificial Intelligence (AI), Machine Learning (ML) & Deep 
+Learning (DL).
+• Understand the concep t of agents in AI
+1.3 BASICS OF  ARTIFICIAL INTELLIGENCE? 
+Knowledge and intelligence are two important concepts, and we were able to",0.1908
+2,What are the applications of artificial intelligence?,Semantic,1,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.6842
+2,What are the applications of artificial intelligence?,Semantic,2,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.6296
+2,What are the applications of artificial intelligence?,Semantic,3,19,"12
+Artificial Intelligence 
+– Introduction
+According to the concepts presented earlier, there are four distinct objectives 
+that might be pursued in the field of artificial intelligence. These objectives are 
+as follows: 
+• The creat ion of systems that think in the same way as people do.
+• The creat ion of systems that are capable of logical thought.
+• The creat ion of machines that can mimic human behaviour.
+• The creat ion of systems that behave in a logical manner",0.6289
+2,What are the applications of artificial intelligence?,Semantic,4,25,"The various categories of Artificial Intelligence are discussed as follows:
+a) Artificial Narrow Intelligence (ANI), also called Weak AI or Narrow AI: 
+Weak AI is a term for thinking that is ""simulated."" Such systems seem to 
+act intelligently, but they don't have any awareness of what they are doing. 
+For example, a chatbot might talk to you in a way that seems natural, but it 
+doesn't know who it is or why it's talking to you. Artificial intelligence is a",0.6195
+2,What are the applications of artificial intelligence?,Semantic,5,15,"covered in this unit as well as the subsequent units of this training.
+The following is a list of eight definitions of artificial intelligence that have 
+been provided by well-known authors of artificial intelligence textbooks.
+1)  According to Haugeland in 1985, ""The Exciting New Effort to Make 
+Computers Think... Machines with Minds, in the Full and Literal Sense,""
+2)  According to Bellman, ""the automation of behaviours that we connect with",0.6177
+3,Explain machine learning.,Keyword,1,95,"Introduction to Machine Learning (ML): Machine learning is a branch of 
+artificial intelligence (AI). It explains one of the most important ideas in AI, 
+which has to do with learning through experience and not through being taught. 
+One of the most recent advances in AI, this way of learning is made possible by 
+applying machine learning to very large data sets. Machine learning algorithms 
+find patterns and learn how to make predictions and recommendations by",0.3792
+3,Explain machine learning.,Keyword,2,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.3493
+3,Explain machine learning.,Keyword,3,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.3061
+3,Explain machine learning.,Keyword,4,92,"learning). In recent years, people have often talked about three related ideas: 
+artificial intelligence (AI), machine learning (ML), and deep learning (DL) 
+(DL). AI is the most general term, machine learning is a part of AI, and deep 
+learning is a type of machine learning. Figure 5 shows how these three ideas 
+are related to each other. Figure 2(b) shows that AI is a broad field with many 
+different subdomains. However, AI's recent rise in popularity is largely due to",0.2724
+3,Explain machine learning.,Keyword,5,50,"is represented or how it is represented. According to this system, there are five 
+ways to learn:(ii)
+(i) Rote Lear ning or memorising. 
+(ii) Learning by Instruction s 
+(iii) Learning by analogy . 
+(iv) Learning by Induction 
+(v) Learning by deduction .
+Rote Learning: Rote learning is the simplest method of learning since it 
+involves the least amount of interpretation. The information is simply copied 
+into a database in this method of learning. This is the technique for memorising",0.2001
+3,Explain machine learning.,Semantic,1,95,"Introduction to Machine Learning (ML): Machine learning is a branch of 
+artificial intelligence (AI). It explains one of the most important ideas in AI, 
+which has to do with learning through experience and not through being taught. 
+One of the most recent advances in AI, this way of learning is made possible by 
+applying machine learning to very large data sets. Machine learning algorithms 
+find patterns and learn how to make predictions and recommendations by",0.6872
+3,Explain machine learning.,Semantic,2,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.6241
+3,Explain machine learning.,Semantic,3,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.6125
+3,Explain machine learning.,Semantic,4,96,"using data and experiences instead of explicit programming instructions. The 
+algorithms also change as they get new data and learn from their experiences. 
+This makes them more effective over time.
+Algorithms for machine learning are based on ways that people learn from their 
+experiences. This means that they are programmed to learn from what they 
+do and get better at what they do. They don't need to be told what to do to get",0.6022
+3,Explain machine learning.,Semantic,5,97,"the desired results. They are set up so that people can learn by looking at the 
+data sets they can access and comparing what they see to examples of the final 
+results. They also look for patterns in the output and try to figure out how to use 
+the different parts to get the output they want.
+ML shows a machine how to draw conclusions and make decisions based on 
+what it has learned in the past. It looks for patterns and analyses past data to",0.5809
+4,What is deep learning?,Keyword,1,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.6301
+4,What is deep learning?,Keyword,2,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.5521
+4,What is deep learning?,Keyword,3,102,"Deep learning is becoming more popular because its models can get better 
+results. It uses large sets of labeled data and neural network architectures to 
+train the models..
+☞ Check Your Progress 3
+Q7 Compare Artificial Intelligence (AI), Machine Learning (ML), and Deep 
+Learning (DL).
+ .....................................................................................................................",0.4205
+4,What is deep learning?,Keyword,4,92,"learning). In recent years, people have often talked about three related ideas: 
+artificial intelligence (AI), machine learning (ML), and deep learning (DL) 
+(DL). AI is the most general term, machine learning is a part of AI, and deep 
+learning is a type of machine learning. Figure 5 shows how these three ideas 
+are related to each other. Figure 2(b) shows that AI is a broad field with many 
+different subdomains. However, AI's recent rise in popularity is largely due to",0.4007
+4,What is deep learning?,Keyword,5,50,"is represented or how it is represented. According to this system, there are five 
+ways to learn:(ii)
+(i) Rote Lear ning or memorising. 
+(ii) Learning by Instruction s 
+(iii) Learning by analogy . 
+(iv) Learning by Induction 
+(v) Learning by deduction .
+Rote Learning: Rote learning is the simplest method of learning since it 
+involves the least amount of interpretation. The information is simply copied 
+into a database in this method of learning. This is the technique for memorising",0.2749
+4,What is deep learning?,Semantic,1,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.762
+4,What is deep learning?,Semantic,2,101,"do with the data, find out if it was right, and use what it has learned to decide 
+what to do with new data. Deep learning is a way of programming computers 
+that uses the way neural networks work to teach computers to do things that 
+humans do naturally. So, Deep Learning is a way to teach a computer model to 
+run classification algorithms based on an image, text, or sound. Once a neural 
+network knows what an object looks like, it can spot that object in a new picture.",0.7133
+4,What is deep learning?,Semantic,3,92,"learning). In recent years, people have often talked about three related ideas: 
+artificial intelligence (AI), machine learning (ML), and deep learning (DL) 
+(DL). AI is the most general term, machine learning is a part of AI, and deep 
+learning is a type of machine learning. Figure 5 shows how these three ideas 
+are related to each other. Figure 2(b) shows that AI is a broad field with many 
+different subdomains. However, AI's recent rise in popularity is largely due to",0.6159
+4,What is deep learning?,Semantic,4,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.6105
+4,What is deep learning?,Semantic,5,102,"Deep learning is becoming more popular because its models can get better 
+results. It uses large sets of labeled data and neural network architectures to 
+train the models..
+☞ Check Your Progress 3
+Q7 Compare Artificial Intelligence (AI), Machine Learning (ML), and Deep 
+Learning (DL).
+ .....................................................................................................................",0.5436
+5,How does AI work?,Keyword,1,81,"Searle, is one of the most well-known Criticism. The crux of the Chinese 
+Room Test, which we'll discuss below, is that convincing a system, say A, that 
+it possesses qualities of another system, say B, does not suggest that system 
+A actually possesses those qualities. For example, a male human's ability to 
+persuade people that he is a woman does not imply that he is capable of bearing 
+children like a woman.  
+The scenario for the Chinese Room Test takes place in a single room with two",0.1608
+5,How does AI work?,Keyword,2,10,"of this unit, but in a nutshell, incorporating intelligence into a machine is related 
+to the field of Artificial Intelligence. Knowledge engineering is a subfield of 
+artificial intelligence (AI) that applies rules to data in order to simulate the way 
+in which an expert would think about the information. It does this by analysing 
+the structure of a job or a decision in order to figure out how one arrives at a 
+conclusion.",0.1561
+5,How does AI work?,Keyword,3,30,"Q2 Classify AI on the basis of the functionalities of AI
+ .....................................................................................................................
+ .....................................................................................................................
+ .....................................................................................................................
+Q3 Compare ANI, AGI and ASI, in context of AI",0.1526
+5,How does AI work?,Keyword,4,179,"development of the field of AI systems. Along with the development of the AI 
+as a discipline, the need of classification of AI systems was felt, and hence the 
+unit discussed the classification of the AI systems in detail. Further, the unit 
+discussed about the concepts of Artificial Intelligence (AI), Machine Learning 
+(ML) and Deep Learning (DL). Finally, the unit discussed the components 
+of Intelligence, which was extended for the understanding of the concepts of",0.1266
+5,How does AI work?,Keyword,5,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.1194
+5,How does AI work?,Semantic,1,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.7111
+5,How does AI work?,Semantic,2,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.6987
+5,How does AI work?,Semantic,3,25,"The various categories of Artificial Intelligence are discussed as follows:
+a) Artificial Narrow Intelligence (ANI), also called Weak AI or Narrow AI: 
+Weak AI is a term for thinking that is ""simulated."" Such systems seem to 
+act intelligently, but they don't have any awareness of what they are doing. 
+For example, a chatbot might talk to you in a way that seems natural, but it 
+doesn't know who it is or why it's talking to you. Artificial intelligence is a",0.6526
+5,How does AI work?,Semantic,4,94,"24
+Artificial Intelligence 
+– Introduction
+Fig 2(a):AI, ML, DL
+SUB DOMAINS OF ARTIFICIAL INTELLIGENCE 
+Figure 2(b) : Various Sub Domains of Artificial Intelligence 
+To make a system that is artificially intelligent, you have to carefully do Reverse-
+Engineering of human traits and machine abilities. Also, to understand how an 
+AI system really works, you have to get a good grasp of the different parts of AI 
+and how they can be used in different industries or industrial fields.",0.6516
+5,How does AI work?,Semantic,5,26,"system that was built to do a certain job.
+b) Artificial General Intelligence (AGI): Strong or General Artificial 
+Intelligence, also called ""actual"" thinking. That is, acting like a smart human 
+and thinking like one with a conscious, subjective mind. For instance, when 
+two humans talk, they probably both know who they are, what they're 
+doing, and why. 
+Strong
+AI",0.649
+6,What are the benefits of artificial intelligence?,Keyword,1,1,"9
+UNIT 1  INTRODUCTION TO ARTIFICIAL     
+      INTELLIGENCE
+Structure
+1.1  Introduction
+1.2  Objectives
+1.3  Basics of Artificial Intelligence (AI)?
+1.4  Brief history of Artificial Intelligence 
+1.5  Components of Intelligence
+1.6  Approaches to Artificial Intelligence
+1.7  Comparison between Artificial Intelligence (AI), Machine Learning  
+  (ML) and DeepLearning (DL).
+1.8  Application Areas of Artificial Intelligence Systems
+1.9  Intelligent Agents
+  1.9.1  Stimulus - Response Agents",0.6461
+6,What are the benefits of artificial intelligence?,Keyword,2,24,"13
+Introduction to 
+Artificial Intelligence
+ Figure 1(a) – Classification of Artificial Intelligence
+Here’s a brief introduction the first type of AI i.e., Type 1 AI. Following are the 
+three stages of Type 1 - Artificial Intelligence: 
+a) Artificial Narrow Intelligence-(ANI)                      
+b) Artificial General Intelligence-(AGI)                    
+c) Artificial Super Intelligence-(ASI) 
+Figure 1(b) –Three Stages of Type-I Artificial Intelligence",0.6156
+6,What are the benefits of artificial intelligence?,Keyword,3,13,"11
+Introduction to 
+Artificial Intelligence
+1.2 OBJECTIVES
+After going through this unit, you will be able to:
+• Understand the differen ce between knowledge and intelligence
+• Answer – what is AI?
+• Identify various approaches of AI
+• Compare Artificial Intelligence (AI), Machine Learning (ML) & Deep 
+Learning (DL).
+• Understand the concep t of agents in AI
+1.3 BASICS OF  ARTIFICIAL INTELLIGENCE? 
+Knowledge and intelligence are two important concepts, and we were able to",0.389
+6,What are the benefits of artificial intelligence?,Keyword,4,14,"gain an understanding of the fundamental distinction between the two terms. 
+Now that we have your attention, let's talk about what artificial intelligence 
+actually is. The meaning of Artificial Intelligence will be covered in this 
+section; however, before we get started, it is important to note that the field of 
+Artificial Intelligence is related to the process of incorporating intelligence into 
+machines; the specifics of this process, as well as the mechanism itself, will be",0.3841
+6,What are the benefits of artificial intelligence?,Keyword,5,9,"Now that we have an understanding of the distinction between intelligence and 
+knowledge, our next issue is: what exactly is artificial intelligence? Incorporating 
+intelligence into a machine is related to the field of Artificial Intelligence, whereas 
+both concepts, namely the representation of knowledge and its engineering, are 
+the basis of traditional AI research. This topic will be discussed in section 1.3",0.3783
+6,What are the benefits of artificial intelligence?,Semantic,1,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.5939
+6,What are the benefits of artificial intelligence?,Semantic,2,65,"what is important and what isn't is one of the hardest problems AI has to face.
+Problem-solving: Problems usually go like this: given these data, find x. AI is 
+used to solve a very wide range of problems. Some examples are finding the 
+best way to win a board game, figuring out who someone is from a picture, and 
+planning a series of steps that will allow a robot to do a certain task.
+Methods for solving problems can be either specific or general. A special-",0.5767
+6,What are the benefits of artificial intelligence?,Semantic,3,9,"Now that we have an understanding of the distinction between intelligence and 
+knowledge, our next issue is: what exactly is artificial intelligence? Incorporating 
+intelligence into a machine is related to the field of Artificial Intelligence, whereas 
+both concepts, namely the representation of knowledge and its engineering, are 
+the basis of traditional AI research. This topic will be discussed in section 1.3",0.5688
+6,What are the benefits of artificial intelligence?,Semantic,4,15,"covered in this unit as well as the subsequent units of this training.
+The following is a list of eight definitions of artificial intelligence that have 
+been provided by well-known authors of artificial intelligence textbooks.
+1)  According to Haugeland in 1985, ""The Exciting New Effort to Make 
+Computers Think... Machines with Minds, in the Full and Literal Sense,""
+2)  According to Bellman, ""the automation of behaviours that we connect with",0.5673
+6,What are the benefits of artificial intelligence?,Semantic,5,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.5669
+7,What are the challenges of AI?,Keyword,1,118,"• Protecting  against and stopping fraud.
+• Smart per sonal assistants (E.g.: Siri, Alexa)
+There are various ways to use artificial intelligence. The technology can be used 
+in different industries and sectors, but the adoption of AI by different sectors has 
+been affected by technical and regulatory challenges, but the biggest factor has 
+been how it will affect business. 
+1.9 INTELLIGENT  AGENTS
+An agent may be thought of as an entity that acts, generally on behalf of someone",0.2045
+7,What are the challenges of AI?,Keyword,2,30,"Q2 Classify AI on the basis of the functionalities of AI
+ .....................................................................................................................
+ .....................................................................................................................
+ .....................................................................................................................
+Q3 Compare ANI, AGI and ASI, in context of AI",0.1576
+7,What are the challenges of AI?,Keyword,3,179,"development of the field of AI systems. Along with the development of the AI 
+as a discipline, the need of classification of AI systems was felt, and hence the 
+unit discussed the classification of the AI systems in detail. Further, the unit 
+discussed about the concepts of Artificial Intelligence (AI), Machine Learning 
+(ML) and Deep Learning (DL). Finally, the unit discussed the components 
+of Intelligence, which was extended for the understanding of the concepts of",0.1306
+7,What are the challenges of AI?,Keyword,4,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.1233
+7,What are the challenges of AI?,Keyword,5,13,"11
+Introduction to 
+Artificial Intelligence
+1.2 OBJECTIVES
+After going through this unit, you will be able to:
+• Understand the differen ce between knowledge and intelligence
+• Answer – what is AI?
+• Identify various approaches of AI
+• Compare Artificial Intelligence (AI), Machine Learning (ML) & Deep 
+Learning (DL).
+• Understand the concep t of agents in AI
+1.3 BASICS OF  ARTIFICIAL INTELLIGENCE? 
+Knowledge and intelligence are two important concepts, and we were able to",0.1205
+7,What are the challenges of AI?,Semantic,1,65,"what is important and what isn't is one of the hardest problems AI has to face.
+Problem-solving: Problems usually go like this: given these data, find x. AI is 
+used to solve a very wide range of problems. Some examples are finding the 
+best way to win a board game, figuring out who someone is from a picture, and 
+planning a series of steps that will allow a robot to do a certain task.
+Methods for solving problems can be either specific or general. A special-",0.6765
+7,What are the challenges of AI?,Semantic,2,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.6071
+7,What are the challenges of AI?,Semantic,3,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.559
+7,What are the challenges of AI?,Semantic,4,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.5506
+7,What are the challenges of AI?,Semantic,5,19,"12
+Artificial Intelligence 
+– Introduction
+According to the concepts presented earlier, there are four distinct objectives 
+that might be pursued in the field of artificial intelligence. These objectives are 
+as follows: 
+• The creat ion of systems that think in the same way as people do.
+• The creat ion of systems that are capable of logical thought.
+• The creat ion of machines that can mimic human behaviour.
+• The creat ion of systems that behave in a logical manner",0.5331
+8,Explain neural networks.,Keyword,1,101,"do with the data, find out if it was right, and use what it has learned to decide 
+what to do with new data. Deep learning is a way of programming computers 
+that uses the way neural networks work to teach computers to do things that 
+humans do naturally. So, Deep Learning is a way to teach a computer model to 
+run classification algorithms based on an image, text, or sound. Once a neural 
+network knows what an object looks like, it can spot that object in a new picture.",0.1985
+8,Explain neural networks.,Keyword,2,42,"networks were once again all the rage. In 1988, probabilistic and decision-
+theoretic methods were used again.
+Early AI was based on general systems that didn't know much. AI researchers 
+realised that for machines to be able to reason about complex tasks, they need 
+to know a lot about a narrow field.
+Dean Pomerleau made ALVINN at CMU in 1989. Autonomous Land Vehicle 
+in a Neural Network is what ALVINN stands for. This is a system that learns",0.1538
+8,Explain neural networks.,Keyword,3,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.1528
+8,Explain neural networks.,Keyword,4,35,"logic problems.
+When electronic computers came along, it was a big step forward in how we 
+could study intelligence.
+McCulloch and Pitts made a Boolean circuit model of the brain in 1943. They 
+wrote about how neural networks can be used to do math in the paper ""A Logical 
+Calculus of Ideas Immanent in Nervous Activity.""
+•  In 1950, Turing wrote a paper called ""Computing Machines and Intelligence."" 
+This article gave a good overall picture of AI. To learn more about Alan",0.1417
+8,Explain neural networks.,Keyword,5,100,"less pre-processing of data, and often gives more accurate results than traditional 
+machine learning methods.
+A neural network is made up of layers of software-based calculators called 
+""neurons"" that are linked together. This neural network can take in a huge 
+amount of data and process it through many layers. At each layer, the network 
+learns more complex features of the data. The network can then decide what to",0.1241
+8,Explain neural networks.,Semantic,1,100,"less pre-processing of data, and often gives more accurate results than traditional 
+machine learning methods.
+A neural network is made up of layers of software-based calculators called 
+""neurons"" that are linked together. This neural network can take in a huge 
+amount of data and process it through many layers. At each layer, the network 
+learns more complex features of the data. The network can then decide what to",0.6789
+8,Explain neural networks.,Semantic,2,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.5706
+8,Explain neural networks.,Semantic,3,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.56
+8,Explain neural networks.,Semantic,4,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.5185
+8,Explain neural networks.,Semantic,5,92,"learning). In recent years, people have often talked about three related ideas: 
+artificial intelligence (AI), machine learning (ML), and deep learning (DL) 
+(DL). AI is the most general term, machine learning is a part of AI, and deep 
+learning is a type of machine learning. Figure 5 shows how these three ideas 
+are related to each other. Figure 2(b) shows that AI is a broad field with many 
+different subdomains. However, AI's recent rise in popularity is largely due to",0.5083
+9,What is natural language processing?,Keyword,1,23,"embedded artificial intelligence (AI).
+On the basis of the functionalities the AI can be classified based on Type 1 and 
+Type 2
+ 
+Computer Vision 
+Audio Processing 
+Natural Language Processing 
+Knowledge Representation  
+Machine Learning  
+Expert Systems 
+Sense 
+Com prehend 
+Act 
+AI TECHNOLOGIES  
+ 
+ILLUSTRATIVE SOLUTIONS 
+Virtual 
+Agents  
+Identify 
+Analytics   
+Cognitive 
+Robotics  
+Speech 
+Analytics 
+s   
+Recommendation 
+Systems 
+Data 
+Visualization 
+Human 
+Brain",0.3326
+9,What is natural language processing?,Keyword,2,70,"could recognise a wide range of items and could be taught to create simple 
+artefacts from a jumble of parts, such as a toy automobile.
+Language-understanding: A language is a set of signs with predetermined 
+meaning. For example, traffic signs establish a mini-language; it is a matter of 
+convention that the hazard-ahead sign signifies trouble ahead. This language-
+specific meaning-by-convention is distinct from what is known as natural",0.321
+9,What is natural language processing?,Keyword,3,2,"1.9.1  Stimulus - Response Agents
+1.10 Summary
+1.11 Solutions/Answers
+1.12 Further Readings 
+1.1 INTRODUCTION 
+Today, artificial intelligence is used in a wide variety of applications, including 
+engineering, technology, the military, opinion mining, sentiment analysis, 
+and  many more. It is also used in more advanced domains, such as language 
+processing and applications for aerospace.
+AI is everywhere in today's world, and people are gradually becoming accustomed",0.1619
+9,What is natural language processing?,Keyword,4,44,"mining, intelligent tutoring, case-based reasoning, multi-agent planning and 
+scheduling, uncertain reasoning, understanding and translating natural language, 
+vision, virtual reality, games, and other areas.
+Rod Brooks' COG Project at MIT made a lot of progress toward making a 
+humanoid robot with the help of a lot of people.
+In the 1990s,
+• 1997 was the year of the first official Robo-Cup soccer game. It was played 
+on a tabletop with 40 teams of robots talking to each other.",0.1497
+9,What is natural language processing?,Keyword,5,138,"We must remember that the agent example the automated public road transport 
+driver, which we have considered above, is quite difficult to implement. 
+However, there are many other agents, which operate in comparatively simpler 
+and less dynamic environments, e.g., a game playing robot, an assembly line 
+robot control, and an image processing agent etc.",0.106
+9,What is natural language processing?,Semantic,1,71,"meaning, as evidenced by phrases like ""Those clouds signify rain"" and ""The 
+drop in pressure suggests the valve is malfunctioning.""
+The productivity of full-fledged human languages, such as English, separates 
+them from other types of communication, such as bird sounds and traffic sign 
+systems. A productive language is one that is rich enough to allow for the 
+creation of an infinite number of different sentences.
+1.6   APPROACHES TO ARTIFICIAL     
+   INTELLIGENCE",0.4473
+9,What is natural language processing?,Semantic,2,48,"should not be viewed as a singular talent or cognitive process but rather as 
+a collection of distinct components. The majority of attention in the field 
+of artificial intelligence research has been paid to the following aspects of 
+intelligence: learning, reasoning, problem-solving, perception, and language 
+comprehension.
+Learning: There are numerous approaches to develop a learning system. 
+Making mistakes is the simplest way to learn. A basic software that solves",0.4324
+9,What is natural language processing?,Semantic,3,2,"1.9.1  Stimulus - Response Agents
+1.10 Summary
+1.11 Solutions/Answers
+1.12 Further Readings 
+1.1 INTRODUCTION 
+Today, artificial intelligence is used in a wide variety of applications, including 
+engineering, technology, the military, opinion mining, sentiment analysis, 
+and  many more. It is also used in more advanced domains, such as language 
+processing and applications for aerospace.
+AI is everywhere in today's world, and people are gradually becoming accustomed",0.427
+9,What is natural language processing?,Semantic,4,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.4146
+9,What is natural language processing?,Semantic,5,70,"could recognise a wide range of items and could be taught to create simple 
+artefacts from a jumble of parts, such as a toy automobile.
+Language-understanding: A language is a set of signs with predetermined 
+meaning. For example, traffic signs establish a mini-language; it is a matter of 
+convention that the hazard-ahead sign signifies trouble ahead. This language-
+specific meaning-by-convention is distinct from what is known as natural",0.4101
+10,How is AI used in healthcare?,Keyword,1,106,"AI is functioning as the major source of competitive advantage:
+a) Healthcar e: The application of AI in healthcare can help address issues of 
+high barriers to access to healthcare facilities, particularly in rural areas that 
+suffer from poor connectivity and a limited supply of healthcare professionals. 
+This is especially true in areas where the supply of healthcare professionals is 
+limited. The deployment of use cases like as AI-driven diagnostics, personalised",0.4982
+10,How is AI used in healthcare?,Keyword,2,30,"Q2 Classify AI on the basis of the functionalities of AI
+ .....................................................................................................................
+ .....................................................................................................................
+ .....................................................................................................................
+Q3 Compare ANI, AGI and ASI, in context of AI",0.1376
+10,How is AI used in healthcare?,Keyword,3,2,"1.9.1  Stimulus - Response Agents
+1.10 Summary
+1.11 Solutions/Answers
+1.12 Further Readings 
+1.1 INTRODUCTION 
+Today, artificial intelligence is used in a wide variety of applications, including 
+engineering, technology, the military, opinion mining, sentiment analysis, 
+and  many more. It is also used in more advanced domains, such as language 
+processing and applications for aerospace.
+AI is everywhere in today's world, and people are gradually becoming accustomed",0.1335
+10,How is AI used in healthcare?,Keyword,4,67,"20
+Artificial Intelligence 
+– Introduction
+method can be used to solve many different kinds of problems. The difference 
+between the current state and the goal state can be reduced step by step with 
+means-end analysis, which is a technique used in AI. The programme chooses 
+actions from a list of ways, which for a simple robot might include pick up, put 
+down, move forward, move back, move left, and move right, until the current 
+state is changed into the goal state.",0.129
+10,How is AI used in healthcare?,Keyword,5,94,"24
+Artificial Intelligence 
+– Introduction
+Fig 2(a):AI, ML, DL
+SUB DOMAINS OF ARTIFICIAL INTELLIGENCE 
+Figure 2(b) : Various Sub Domains of Artificial Intelligence 
+To make a system that is artificially intelligent, you have to carefully do Reverse-
+Engineering of human traits and machine abilities. Also, to understand how an 
+AI system really works, you have to get a good grasp of the different parts of AI 
+and how they can be used in different industries or industrial fields.",0.1256
+10,How is AI used in healthcare?,Semantic,1,106,"AI is functioning as the major source of competitive advantage:
+a) Healthcar e: The application of AI in healthcare can help address issues of 
+high barriers to access to healthcare facilities, particularly in rural areas that 
+suffer from poor connectivity and a limited supply of healthcare professionals. 
+This is especially true in areas where the supply of healthcare professionals is 
+limited. The deployment of use cases like as AI-driven diagnostics, personalised",0.7418
+10,How is AI used in healthcare?,Semantic,2,107,"treatment, early diagnosis of potential pandemics, and imaging diagnostics, 
+amongst others, is one way to accomplish this goal. 
+Figure 4: Potential Use of AI in Health Care
+b) Agriculture: AI has the potential to bring in a food revolution while 
+simultaneously satisfying the ever-increasing need for food (global need to 
+produce 50 percent more food and cater to an additional 2 billion people by 
+2050 as compared to today). It also has the ability to resolve issues such as",0.7306
+10,How is AI used in healthcare?,Semantic,3,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.6048
+10,How is AI used in healthcare?,Semantic,4,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.6048
+10,How is AI used in healthcare?,Semantic,5,116,"up administrative tasks, and predicting when a student needs help to keep them 
+from dropping out or to suggest vocational training.
+i) Financial industry: The financial industry also uses AI. For example, it helps 
+the fraud department of a bank find and flag suspicious banking and finance 
+activities like unusual debit card use and large account deposits. AI is also used 
+to make trading easier and more efficient. This is done by making it easier to",0.6024
+11,What is computer vision?,Keyword,1,79,"or machine traits. If C can't figure out who the computer is, then the computer 
+must be smart. More accurately, the computer is smart if it can hide its identity 
+from C.",0.3603
+11,What is computer vision?,Keyword,2,78,"we'll call B, without knowing who each question is for and, of course, with 
+the goal of figuring out who the computer is. On the other hand, the computer 
+would reply in a way that would keep C from finding out who it is. 
+The only way for the three of them to talk to each other is through computer 
+terminals. This means that the identity of the computer or person B can only be 
+determined by how intelligent or not the responses are, not by any other human",0.3343
+11,What is computer vision?,Keyword,3,23,"embedded artificial intelligence (AI).
+On the basis of the functionalities the AI can be classified based on Type 1 and 
+Type 2
+ 
+Computer Vision 
+Audio Processing 
+Natural Language Processing 
+Knowledge Representation  
+Machine Learning  
+Expert Systems 
+Sense 
+Com prehend 
+Act 
+AI TECHNOLOGIES  
+ 
+ILLUSTRATIVE SOLUTIONS 
+Virtual 
+Agents  
+Identify 
+Analytics   
+Cognitive 
+Robotics  
+Speech 
+Analytics 
+s   
+Recommendation 
+Systems 
+Data 
+Visualization 
+Human 
+Brain",0.195
+11,What is computer vision?,Keyword,4,120,"29
+Introduction to 
+Artificial Intelligence
+Percept sequence is a sequence of percepts, generally long enough to allow the 
+agent to initiate some action. 
+In order to further have an idea about what a computer agent is, let us consider 
+one of the first definitions of agent, which was coined by John McCarthy and 
+his friends at MIT. 
+A software agent is a system which, when given a goal to be achieved, could 
+carry out the details of the appropriate (computer) operations and further, in",0.1458
+11,What is computer vision?,Keyword,5,121,"case it gets stuck, it can ask for advice and can receive it from humans, may 
+even evaluate the appropriateness of the advice and then act suitably. 
+Essentially, a computer agent is a computer software that additionally has the 
+following attributes:
+(i) it has autonomous control i.e., it operates under it s own control
+(ii) it i s perceptive, i.e., it is capable of perceiving its own environment
+(iii) it persists over a long p eriod of time",0.1387
+11,What is computer vision?,Semantic,1,68,"state is changed into the goal state.
+Perception: Perception involves scanning the surroundings with numerous 
+sense organs, genuine or artificial, and internal processes for analyzing the 
+scene into objects, their features, and relationships. The fact that one and the 
+same item can have various appearances depending on the angle from which 
+it is viewed, whether or not parts of it are projecting shadows, and so on, 
+complicates analysis.",0.4974
+11,What is computer vision?,Semantic,2,99,"25
+Introduction to 
+Artificial Intelligence
+Figure 3 :Machine Learning : Descriptive, Predictive and Prescriptive Analytics 
+Introduction to Deep Learning (DL) Deep Learning is a subfield of machine 
+learning that focuses on algorithms called ""Artificial Neural Networks"" (ANN) 
+that are based on how the brain is built and how it works. Deep Learning is a 
+type of machine learning that can handle a wider range of data sources, needs",0.4233
+11,What is computer vision?,Semantic,3,43,"to drive by watching someone else do it. It has a neural network that gets an 
+image from a two-dimensional camera that is 30x32 units. The output layer tells 
+the vehicle where it needs to go. The system drove a car from the East Coast to 
+the West Coast of the United States, which is about 2,850 miles. A person only 
+drove about 50 of these miles. The system took care of the rest.
+In the 1990s, AI made a lot of progress, especially in machine learning, data",0.4232
+11,What is computer vision?,Semantic,4,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.414
+11,What is computer vision?,Semantic,5,17,"when performed by people,"" as defined by Kurzweil in the year 1990. 
+5)  ""The art of building machines that execute functions that demand intellect 
+when performed by people,"" as defined by Kurzweil in the year 1990.  To 
+the Rich and the Knight, 1991
+7)  According to Schalkoff (1990), ""a field of study that aims to explain and 
+replicate intelligent behaviour in terms of computational processes."" 
+8)  According to Luger and Stubblefield (1993), ""the discipline of computer",0.4027
+12,What is supervised learning?,Keyword,1,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.3709
+12,What is supervised learning?,Keyword,2,57,"agent learns based on: 
+•  What it is learning, such as concepts, problem-solving techniques, or game-
+playing techniques, etc. 
+•  The representation, predicate calculus, frame, script, and other elements 
+that were employed.
+•  The critic , who expresses their opinion of the agency in general.
+Learning based on feedback is normally categorized as:
+• Supervised learning
+• Unsupervised learning
+• Reinforcement Learnin g.",0.3017
+12,What is supervised learning?,Keyword,3,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.2203
+12,What is supervised learning?,Keyword,4,50,"is represented or how it is represented. According to this system, there are five 
+ways to learn:(ii)
+(i) Rote Lear ning or memorising. 
+(ii) Learning by Instruction s 
+(iii) Learning by analogy . 
+(iv) Learning by Induction 
+(v) Learning by deduction .
+Rote Learning: Rote learning is the simplest method of learning since it 
+involves the least amount of interpretation. The information is simply copied 
+into a database in this method of learning. This is the technique for memorising",0.2155
+12,What is supervised learning?,Keyword,5,95,"Introduction to Machine Learning (ML): Machine learning is a branch of 
+artificial intelligence (AI). It explains one of the most important ideas in AI, 
+which has to do with learning through experience and not through being taught. 
+One of the most recent advances in AI, this way of learning is made possible by 
+applying machine learning to very large data sets. Machine learning algorithms 
+find patterns and learn how to make predictions and recommendations by",0.2102
+12,What is supervised learning?,Semantic,1,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.69
+12,What is supervised learning?,Semantic,2,95,"Introduction to Machine Learning (ML): Machine learning is a branch of 
+artificial intelligence (AI). It explains one of the most important ideas in AI, 
+which has to do with learning through experience and not through being taught. 
+One of the most recent advances in AI, this way of learning is made possible by 
+applying machine learning to very large data sets. Machine learning algorithms 
+find patterns and learn how to make predictions and recommendations by",0.5307
+12,What is supervised learning?,Semantic,3,54,"the examples. This type of learning also occurs when someone who can drive a 
+light car attempts to drive a heavy vehicle.
+Learning by Induction: Learning through induction is the most common 
+method of learning. This is a method of learning that employs inductive 
+reasoning, which is a style of reasoning that involves drawing a conclusion from 
+a large number of good instances. If we encounter a lot of cows, we might notice",0.5219
+12,What is supervised learning?,Semantic,4,59,"19
+Introduction to 
+Artificial Intelligence
+out useful things about the world from what you see, making a map from the 
+current state's conditions to actions, and learning how the world changes over 
+time.
+Unsupervised Learning: There is no way to know what the inputs are and 
+what the expected outputs are in this type of learning. So, the learning system 
+has to figure out on its own which properties of objects it doesn't know about",0.5011
+12,What is supervised learning?,Semantic,5,97,"the desired results. They are set up so that people can learn by looking at the 
+data sets they can access and comparing what they see to examples of the final 
+results. They also look for patterns in the output and try to figure out how to use 
+the different parts to get the output they want.
+ML shows a machine how to draw conclusions and make decisions based on 
+what it has learned in the past. It looks for patterns and analyses past data to",0.4979
+13,What is unsupervised learning?,Keyword,1,59,"19
+Introduction to 
+Artificial Intelligence
+out useful things about the world from what you see, making a map from the 
+current state's conditions to actions, and learning how the world changes over 
+time.
+Unsupervised Learning: There is no way to know what the inputs are and 
+what the expected outputs are in this type of learning. So, the learning system 
+has to figure out on its own which properties of objects it doesn't know about",0.3498
+13,What is unsupervised learning?,Keyword,2,57,"agent learns based on: 
+•  What it is learning, such as concepts, problem-solving techniques, or game-
+playing techniques, etc. 
+•  The representation, predicate calculus, frame, script, and other elements 
+that were employed.
+•  The critic , who expresses their opinion of the agency in general.
+Learning based on feedback is normally categorized as:
+• Supervised learning
+• Unsupervised learning
+• Reinforcement Learnin g.",0.3017
+13,What is unsupervised learning?,Keyword,3,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.2203
+13,What is unsupervised learning?,Keyword,4,50,"is represented or how it is represented. According to this system, there are five 
+ways to learn:(ii)
+(i) Rote Lear ning or memorising. 
+(ii) Learning by Instruction s 
+(iii) Learning by analogy . 
+(iv) Learning by Induction 
+(v) Learning by deduction .
+Rote Learning: Rote learning is the simplest method of learning since it 
+involves the least amount of interpretation. The information is simply copied 
+into a database in this method of learning. This is the technique for memorising",0.2155
+13,What is unsupervised learning?,Keyword,5,95,"Introduction to Machine Learning (ML): Machine learning is a branch of 
+artificial intelligence (AI). It explains one of the most important ideas in AI, 
+which has to do with learning through experience and not through being taught. 
+One of the most recent advances in AI, this way of learning is made possible by 
+applying machine learning to very large data sets. Machine learning algorithms 
+find patterns and learn how to make predictions and recommendations by",0.2102
+13,What is unsupervised learning?,Semantic,1,59,"19
+Introduction to 
+Artificial Intelligence
+out useful things about the world from what you see, making a map from the 
+current state's conditions to actions, and learning how the world changes over 
+time.
+Unsupervised Learning: There is no way to know what the inputs are and 
+what the expected outputs are in this type of learning. So, the learning system 
+has to figure out on its own which properties of objects it doesn't know about",0.6496
+13,What is unsupervised learning?,Semantic,2,54,"the examples. This type of learning also occurs when someone who can drive a 
+light car attempts to drive a heavy vehicle.
+Learning by Induction: Learning through induction is the most common 
+method of learning. This is a method of learning that employs inductive 
+reasoning, which is a style of reasoning that involves drawing a conclusion from 
+a large number of good instances. If we encounter a lot of cows, we might notice",0.5317
+13,What is unsupervised learning?,Semantic,3,58,"• Reinforcement Learnin g.
+Supervised Learning: It has a function that learns from inputs and outputs that 
+are shown as examples. Some examples of this kind of learning are figuring",0.472
+13,What is unsupervised learning?,Semantic,4,50,"is represented or how it is represented. According to this system, there are five 
+ways to learn:(ii)
+(i) Rote Lear ning or memorising. 
+(ii) Learning by Instruction s 
+(iii) Learning by analogy . 
+(iv) Learning by Induction 
+(v) Learning by deduction .
+Rote Learning: Rote learning is the simplest method of learning since it 
+involves the least amount of interpretation. The information is simply copied 
+into a database in this method of learning. This is the technique for memorising",0.4553
+13,What is unsupervised learning?,Semantic,5,49,"""mate in one"" chess issues, for example, might test different moves until it finds 
+one that answers the problem. The programme remembers which move worked 
+so that the next time the computer is given the identical situation, it can provide 
+an immediate response. The simple act of memorising things like answers to 
+problems, words in a vocabulary list, and so on is known as ""rote learning"" or 
+memorization.
+We'll talk about another classification that doesn't depend on the way knowledge",0.4437
+14,How does AI support decision making?,Keyword,1,10,"of this unit, but in a nutshell, incorporating intelligence into a machine is related 
+to the field of Artificial Intelligence. Knowledge engineering is a subfield of 
+artificial intelligence (AI) that applies rules to data in order to simulate the way 
+in which an expert would think about the information. It does this by analysing 
+the structure of a job or a decision in order to figure out how one arrives at a 
+conclusion.",0.2338
+14,How does AI support decision making?,Keyword,2,156,"decision-making required by the agents of this kind needs some sort of 
+looking into the future. For example, it may analyze the possible outcome of a 
+particular action before it actually performs that action. In other words, we can 
+say that the	agent 	would 	perform 	some 	sort 	of 	reasoning 	of 	if-then-else 	type, 
+e.g., an automobile driver agent having one of its goals as not to hit any vehicle 
+in front of it, when finds the vehicle immediately ahead of it slowing down may",0.1512
+14,How does AI support decision making?,Keyword,3,89,".....................................................................................................................
+ .....................................................................................................................
+Q5 How do we measure if Artificial Intelligence is making a machine to behave 
+or act or perform like human being or not?” 
+ .....................................................................................................................",0.1429
+14,How does AI support decision making?,Keyword,4,155,"in order to reach its goal. 
+Another desirable capability which a good goal-based agent should have been 
+that if an agent finds that a part of the sequence of the previous steps has taken 
+the agent away from its goal then it should be able to retract and start its actions 
+from a point which may take the agent toward the goal. 
+In order to take appropriate action, decision-making process in goal-based 
+agents may be simple or quite complex depending on the problem. Also, the",0.1406
+14,How does AI support decision making?,Keyword,5,28,"intelligence"" usually refers to a level of general and strong AI that is smarter 
+than humans, if that's even possible. The ASI is seen as the logical next 
+step after the AGI because it can do more than humans can. This includes 
+making decisions, making rational decisions, and even things like building 
+emotional relationships. Their is a marginal difference between AGI and 
+ASI.
+☞ Check Your Progress 1
+Q1 How Knowledge differs from intelligence? What do you understand by the",0.1372
+14,How does AI support decision making?,Semantic,1,156,"decision-making required by the agents of this kind needs some sort of 
+looking into the future. For example, it may analyze the possible outcome of a 
+particular action before it actually performs that action. In other words, we can 
+say that the	agent 	would 	perform 	some 	sort 	of 	reasoning 	of 	if-then-else 	type, 
+e.g., an automobile driver agent having one of its goals as not to hit any vehicle 
+in front of it, when finds the vehicle immediately ahead of it slowing down may",0.6051
+14,How does AI support decision making?,Semantic,2,153,"34
+Artificial Intelligence 
+– Introduction
+also a part of the current state description and it describes everything that is 
+desirable to achieve the goal. As mentioned earlier, an example of a goal-based 
+agent is an agent that is required to find the path to reach a city. In such a case, 
+if the agent is an automobile driver agent, and if the road is splitting ahead into 
+two roads, then the agent has to decide which way to go to achieve its goal",0.5627
+14,How does AI support decision making?,Semantic,3,116,"up administrative tasks, and predicting when a student needs help to keep them 
+from dropping out or to suggest vocational training.
+i) Financial industry: The financial industry also uses AI. For example, it helps 
+the fraud department of a bank find and flag suspicious banking and finance 
+activities like unusual debit card use and large account deposits. AI is also used 
+to make trading easier and more efficient. This is done by making it easier to",0.5597
+14,How does AI support decision making?,Semantic,4,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.5511
+14,How does AI support decision making?,Semantic,5,93,"how well machine learning, especially deep learning, works. So, this entry will 
+talk about these two areas of AI: Machine Learning (ML) and Deep Learning 
+(DL) Figure 2 (a)",0.551
+15,What is the future of artificial intelligence?,Keyword,1,1,"9
+UNIT 1  INTRODUCTION TO ARTIFICIAL     
+      INTELLIGENCE
+Structure
+1.1  Introduction
+1.2  Objectives
+1.3  Basics of Artificial Intelligence (AI)?
+1.4  Brief history of Artificial Intelligence 
+1.5  Components of Intelligence
+1.6  Approaches to Artificial Intelligence
+1.7  Comparison between Artificial Intelligence (AI), Machine Learning  
+  (ML) and DeepLearning (DL).
+1.8  Application Areas of Artificial Intelligence Systems
+1.9  Intelligent Agents
+  1.9.1  Stimulus - Response Agents",0.3469
+15,What is the future of artificial intelligence?,Keyword,2,24,"13
+Introduction to 
+Artificial Intelligence
+ Figure 1(a) – Classification of Artificial Intelligence
+Here’s a brief introduction the first type of AI i.e., Type 1 AI. Following are the 
+three stages of Type 1 - Artificial Intelligence: 
+a) Artificial Narrow Intelligence-(ANI)                      
+b) Artificial General Intelligence-(AGI)                    
+c) Artificial Super Intelligence-(ASI) 
+Figure 1(b) –Three Stages of Type-I Artificial Intelligence",0.3306
+15,What is the future of artificial intelligence?,Keyword,3,72,"INTELLIGENCE 
+In the previous sections of this unit, we learned about various concepts of 
+Artificial Intelligence but now the question is “how do we measure if Artificial 
+Intelligence is making a machine to behave or act or perform like human being 
+or not?” 
+Perhaps, in the future, we will reach a point where AI can behave like humans, 
+but what guarantees do we have that this will continue? Is it possible to make",0.3186
+15,What is the future of artificial intelligence?,Keyword,4,13,"11
+Introduction to 
+Artificial Intelligence
+1.2 OBJECTIVES
+After going through this unit, you will be able to:
+• Understand the differen ce between knowledge and intelligence
+• Answer – what is AI?
+• Identify various approaches of AI
+• Compare Artificial Intelligence (AI), Machine Learning (ML) & Deep 
+Learning (DL).
+• Understand the concep t of agents in AI
+1.3 BASICS OF  ARTIFICIAL INTELLIGENCE? 
+Knowledge and intelligence are two important concepts, and we were able to",0.2089
+15,What is the future of artificial intelligence?,Keyword,5,14,"gain an understanding of the fundamental distinction between the two terms. 
+Now that we have your attention, let's talk about what artificial intelligence 
+actually is. The meaning of Artificial Intelligence will be covered in this 
+section; however, before we get started, it is important to note that the field of 
+Artificial Intelligence is related to the process of incorporating intelligence into 
+machines; the specifics of this process, as well as the mechanism itself, will be",0.2062
+15,What is the future of artificial intelligence?,Semantic,1,20,"In addition, we discovered through our conversation in the earlier section 1.1 of 
+this Unit, that Artificial Intelligence (AI) is the intelligence that is incorporated 
+into machines; in other words, AI is the ability of a machine to display human-
+like capabilities such as reasoning, learning, planning, and creativity. We learned 
+this information because AI is the ability of a machine to display human-like 
+capabilities. Taking into mind the Emerging AI technologies to sense, interpret,",0.6063
+15,What is the future of artificial intelligence?,Semantic,2,15,"covered in this unit as well as the subsequent units of this training.
+The following is a list of eight definitions of artificial intelligence that have 
+been provided by well-known authors of artificial intelligence textbooks.
+1)  According to Haugeland in 1985, ""The Exciting New Effort to Make 
+Computers Think... Machines with Minds, in the Full and Literal Sense,""
+2)  According to Bellman, ""the automation of behaviours that we connect with",0.5857
+15,What is the future of artificial intelligence?,Semantic,3,72,"INTELLIGENCE 
+In the previous sections of this unit, we learned about various concepts of 
+Artificial Intelligence but now the question is “how do we measure if Artificial 
+Intelligence is making a machine to behave or act or perform like human being 
+or not?” 
+Perhaps, in the future, we will reach a point where AI can behave like humans, 
+but what guarantees do we have that this will continue? Is it possible to make",0.5834
+15,What is the future of artificial intelligence?,Semantic,4,21,"and act according to the circumstances, relevant exemplary solutions are 
+summarised in Figure 1, which attempts to encapsulate the understanding of 
+the question ""What is Artificial Intelligence?""
+Figure-1: What is Artificial Intelligence? – Emerging AI Technologies
+The applications of artificial intelligence (AI) that are shown in figure-1 do not 
+all require the same kinds of AI. In a general sense, one may say that AI can be 
+categorised into the following levels:",0.5692
+15,What is the future of artificial intelligence?,Semantic,5,25,"The various categories of Artificial Intelligence are discussed as follows:
+a) Artificial Narrow Intelligence (ANI), also called Weak AI or Narrow AI: 
+Weak AI is a term for thinking that is ""simulated."" Such systems seem to 
+act intelligently, but they don't have any awareness of what they are doing. 
+For example, a chatbot might talk to you in a way that seems natural, but it 
+doesn't know who it is or why it's talking to you. Artificial intelligence is a",0.5521
